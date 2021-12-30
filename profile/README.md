@@ -1,6 +1,6 @@
 ## Winds 👋
 
-🌈 Winds is a Minecraft Network include [Winds Anarchy](https://breeze.asia/) and other servers.
+🌈 Winds is a Minecraft Network include [Winds Anarchy](https://breeze.asia/), Winds Tech and other servers.
 
 <!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
